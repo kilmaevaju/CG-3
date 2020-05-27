@@ -1,0 +1,199 @@
+C:\Users\Alexandra\Desktop\arkanoid\OpenGL\OpenGL\bin\Debug\OpenGL.exe
+C:\Users\Alexandra\Desktop\arkanoid\OpenGL\OpenGL\bin\Debug\OpenGL.pdb
+C:\Users\Alexandra\Desktop\arkanoid\OpenGL\OpenGL\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\Alexandra\Desktop\arkanoid\OpenGL\OpenGL\bin\Debug\OpenTK.dll
+C:\Users\Alexandra\Desktop\arkanoid\OpenGL\OpenGL\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Alexandra\Desktop\arkanoid\OpenGL\OpenGL\bin\Debug\OpenTK.pdb
+C:\Users\Alexandra\Desktop\arkanoid\OpenGL\OpenGL\bin\Debug\OpenTK.xml
+C:\Users\Alexandra\Desktop\arkanoid\OpenGL\OpenGL\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Alexandra\Desktop\arkanoid\OpenGL\OpenGL\obj\x86\Debug\OpenGL.Form1.resources
+C:\Users\Alexandra\Desktop\arkanoid\OpenGL\OpenGL\obj\x86\Debug\OpenGL.Properties.Resources.resources
+C:\Users\Alexandra\Desktop\arkanoid\OpenGL\OpenGL\obj\x86\Debug\OpenGL.csproj.GenerateResource.Cache
+C:\Users\Alexandra\Desktop\arkanoid\OpenGL\OpenGL\obj\x86\Debug\OpenGL.exe
+C:\Users\Alexandra\Desktop\arkanoid\OpenGL\OpenGL\obj\x86\Debug\OpenGL.pdb
+C:\Users\Alexandra\Desktop\arkanoid\OpenGL\OpenGL\obj\x86\Debug\OpenGL.csprojResolveAssemblyReference.cache
+D:\Belokamenskaya\_Lectures\Компьютерная графика\Практика_моя\Practice OpenTK\OpenGL\OpenGL\obj\x86\Debug\OpenGL.exe
+D:\Belokamenskaya\_Lectures\Компьютерная графика\Практика_моя\Practice OpenTK\OpenGL\OpenGL\obj\x86\Debug\OpenGL.pdb
+D:\Belokamenskaya\_Lectures\Компьютерная графика\Практика_моя\Practice OpenTK\OpenGL\OpenGL\bin\Debug\OpenGL.exe
+D:\Belokamenskaya\_Lectures\Компьютерная графика\Практика_моя\Practice OpenTK\OpenGL\OpenGL\bin\Debug\OpenGL.pdb
+D:\Belokamenskaya\_Lectures\Компьютерная графика\Практика_моя\Practice OpenTK\OpenGL\OpenGL\bin\Debug\OpenTK.Compatibility.dll
+D:\Belokamenskaya\_Lectures\Компьютерная графика\Практика_моя\Practice OpenTK\OpenGL\OpenGL\bin\Debug\OpenTK.dll
+D:\Belokamenskaya\_Lectures\Компьютерная графика\Практика_моя\Practice OpenTK\OpenGL\OpenGL\bin\Debug\OpenTK.GLControl.dll
+D:\Belokamenskaya\_Lectures\Компьютерная графика\Практика_моя\Practice OpenTK\OpenGL\OpenGL\bin\Debug\OpenTK.pdb
+D:\Belokamenskaya\_Lectures\Компьютерная графика\Практика_моя\Practice OpenTK\OpenGL\OpenGL\bin\Debug\OpenTK.xml
+D:\Belokamenskaya\_Lectures\Компьютерная графика\Практика_моя\Practice OpenTK\OpenGL\OpenGL\bin\Debug\OpenTK.GLControl.xml
+D:\Belokamenskaya\_Lectures\Компьютерная графика\Практика_моя\Practice OpenTK\OpenGL\OpenGL\obj\x86\Debug\OpenGL.csprojResolveAssemblyReference.cache
+D:\Belokamenskaya\_Lectures\Компьютерная графика\Практика_моя\Practice OpenTK\OpenGL\OpenGL\obj\x86\Debug\OpenGL.Form1.resources
+D:\Belokamenskaya\_Lectures\Компьютерная графика\Практика_моя\Practice OpenTK\OpenGL\OpenGL\obj\x86\Debug\OpenGL.Properties.Resources.resources
+D:\Belokamenskaya\_Lectures\Компьютерная графика\Практика_моя\Practice OpenTK\OpenGL\OpenGL\obj\x86\Debug\OpenGL.csproj.GenerateResource.Cache
+E:\Practice OpenTK\OpenGL\OpenGL\obj\x86\Debug\OpenGL.exe
+E:\Practice OpenTK\OpenGL\OpenGL\obj\x86\Debug\OpenGL.pdb
+E:\Practice OpenTK\OpenGL\OpenGL\bin\Debug\OpenGL.exe
+E:\Practice OpenTK\OpenGL\OpenGL\bin\Debug\OpenGL.pdb
+E:\Practice OpenTK\OpenGL\OpenGL\bin\Debug\OpenTK.Compatibility.dll
+E:\Practice OpenTK\OpenGL\OpenGL\bin\Debug\OpenTK.dll
+E:\Practice OpenTK\OpenGL\OpenGL\bin\Debug\OpenTK.GLControl.dll
+E:\Practice OpenTK\OpenGL\OpenGL\bin\Debug\OpenTK.pdb
+E:\Practice OpenTK\OpenGL\OpenGL\bin\Debug\OpenTK.xml
+E:\Practice OpenTK\OpenGL\OpenGL\bin\Debug\OpenTK.GLControl.xml
+E:\Practice OpenTK\OpenGL\OpenGL\obj\x86\Debug\OpenGL.csprojResolveAssemblyReference.cache
+E:\Practice OpenTK\OpenGL\OpenGL\obj\x86\Debug\OpenGL.Form1.resources
+E:\Practice OpenTK\OpenGL\OpenGL\obj\x86\Debug\OpenGL.Properties.Resources.resources
+E:\Practice OpenTK\OpenGL\OpenGL\obj\x86\Debug\OpenGL.csproj.GenerateResource.Cache
+D:\Belokamenskaya\_Lectures\Practice OpenTK\OpenGL\OpenGL\obj\x86\Debug\OpenGL.exe
+D:\Belokamenskaya\_Lectures\Practice OpenTK\OpenGL\OpenGL\obj\x86\Debug\OpenGL.pdb
+D:\Belokamenskaya\_Lectures\Practice OpenTK\OpenGL\OpenGL\bin\Debug\OpenGL.exe
+D:\Belokamenskaya\_Lectures\Practice OpenTK\OpenGL\OpenGL\bin\Debug\OpenGL.pdb
+D:\Belokamenskaya\_Lectures\Practice OpenTK\OpenGL\OpenGL\bin\Debug\OpenTK.Compatibility.dll
+D:\Belokamenskaya\_Lectures\Practice OpenTK\OpenGL\OpenGL\bin\Debug\OpenTK.dll
+D:\Belokamenskaya\_Lectures\Practice OpenTK\OpenGL\OpenGL\bin\Debug\OpenTK.GLControl.dll
+D:\Belokamenskaya\_Lectures\Practice OpenTK\OpenGL\OpenGL\bin\Debug\OpenTK.pdb
+D:\Belokamenskaya\_Lectures\Practice OpenTK\OpenGL\OpenGL\bin\Debug\OpenTK.xml
+D:\Belokamenskaya\_Lectures\Practice OpenTK\OpenGL\OpenGL\bin\Debug\OpenTK.GLControl.xml
+D:\Belokamenskaya\_Lectures\Practice OpenTK\OpenGL\OpenGL\obj\x86\Debug\OpenGL.csprojResolveAssemblyReference.cache
+D:\Belokamenskaya\_Lectures\Practice OpenTK\OpenGL\OpenGL\obj\x86\Debug\OpenGL.Form1.resources
+D:\Belokamenskaya\_Lectures\Practice OpenTK\OpenGL\OpenGL\obj\x86\Debug\OpenGL.Properties.Resources.resources
+D:\Belokamenskaya\_Lectures\Practice OpenTK\OpenGL\OpenGL\obj\x86\Debug\OpenGL.csproj.GenerateResource.Cache
+D:\Belokamenskaya\_Lectures\Practice OpenTK\Shaders\OpenGL\OpenGL\obj\x86\Debug\OpenGL.exe
+D:\Belokamenskaya\_Lectures\Practice OpenTK\Shaders\OpenGL\OpenGL\obj\x86\Debug\OpenGL.pdb
+D:\Belokamenskaya\_Lectures\Practice OpenTK\Shaders\OpenGL\OpenGL\bin\Debug\OpenGL.exe
+D:\Belokamenskaya\_Lectures\Practice OpenTK\Shaders\OpenGL\OpenGL\bin\Debug\OpenGL.pdb
+D:\Belokamenskaya\_Lectures\Practice OpenTK\Shaders\OpenGL\OpenGL\bin\Debug\OpenTK.Compatibility.dll
+D:\Belokamenskaya\_Lectures\Practice OpenTK\Shaders\OpenGL\OpenGL\bin\Debug\OpenTK.dll
+D:\Belokamenskaya\_Lectures\Practice OpenTK\Shaders\OpenGL\OpenGL\bin\Debug\OpenTK.GLControl.dll
+D:\Belokamenskaya\_Lectures\Practice OpenTK\Shaders\OpenGL\OpenGL\bin\Debug\OpenTK.pdb
+D:\Belokamenskaya\_Lectures\Practice OpenTK\Shaders\OpenGL\OpenGL\bin\Debug\OpenTK.xml
+D:\Belokamenskaya\_Lectures\Practice OpenTK\Shaders\OpenGL\OpenGL\bin\Debug\OpenTK.GLControl.xml
+D:\Belokamenskaya\_Lectures\Practice OpenTK\Shaders\OpenGL\OpenGL\obj\x86\Debug\OpenGL.csprojResolveAssemblyReference.cache
+D:\Belokamenskaya\_Lectures\Practice OpenTK\Shaders\OpenGL\OpenGL\obj\x86\Debug\OpenGL.Form1.resources
+D:\Belokamenskaya\_Lectures\Practice OpenTK\Shaders\OpenGL\OpenGL\obj\x86\Debug\OpenGL.Properties.Resources.resources
+D:\Belokamenskaya\_Lectures\Practice OpenTK\Shaders\OpenGL\OpenGL\obj\x86\Debug\OpenGL.csproj.GenerateResource.Cache
+C:\Users\Alexandra\Desktop\Shaders\OpenGL\OpenGL\obj\x86\Debug\OpenGL.exe
+C:\Users\Alexandra\Desktop\Shaders\OpenGL\OpenGL\obj\x86\Debug\OpenGL.pdb
+C:\Users\Alexandra\Desktop\Shaders\OpenGL\OpenGL\bin\Debug\OpenGL.exe
+C:\Users\Alexandra\Desktop\Shaders\OpenGL\OpenGL\bin\Debug\OpenGL.pdb
+C:\Users\Alexandra\Desktop\Shaders\OpenGL\OpenGL\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\Alexandra\Desktop\Shaders\OpenGL\OpenGL\bin\Debug\OpenTK.dll
+C:\Users\Alexandra\Desktop\Shaders\OpenGL\OpenGL\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Alexandra\Desktop\Shaders\OpenGL\OpenGL\bin\Debug\OpenTK.pdb
+C:\Users\Alexandra\Desktop\Shaders\OpenGL\OpenGL\bin\Debug\OpenTK.xml
+C:\Users\Alexandra\Desktop\Shaders\OpenGL\OpenGL\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Alexandra\Desktop\Shaders\OpenGL\OpenGL\obj\x86\Debug\OpenGL.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\Shaders\OpenGL\OpenGL\obj\x86\Debug\OpenGL.Form1.resources
+C:\Users\Alexandra\Desktop\Shaders\OpenGL\OpenGL\obj\x86\Debug\OpenGL.Properties.Resources.resources
+C:\Users\Alexandra\Desktop\Shaders\OpenGL\OpenGL\obj\x86\Debug\OpenGL.csproj.GenerateResource.Cache
+C:\Users\Alexandra\Desktop\Shaders\raytracing\OpenGL\OpenGL\obj\x86\Debug\OpenGL.exe
+C:\Users\Alexandra\Desktop\Shaders\raytracing\OpenGL\OpenGL\obj\x86\Debug\OpenGL.pdb
+D:\Belokamenskaya\_Lectures\Practice\raytracing\OpenGL\OpenGL\obj\x86\Debug\OpenGL.exe
+D:\Belokamenskaya\_Lectures\Practice\raytracing\OpenGL\OpenGL\obj\x86\Debug\OpenGL.pdb
+D:\Belokamenskaya\_Lectures\Practice\raytracing\OpenGL\OpenGL\bin\Debug\OpenGL.exe
+D:\Belokamenskaya\_Lectures\Practice\raytracing\OpenGL\OpenGL\bin\Debug\OpenGL.pdb
+D:\Belokamenskaya\_Lectures\Practice\raytracing\OpenGL\OpenGL\bin\Debug\OpenTK.Compatibility.dll
+D:\Belokamenskaya\_Lectures\Practice\raytracing\OpenGL\OpenGL\bin\Debug\OpenTK.dll
+D:\Belokamenskaya\_Lectures\Practice\raytracing\OpenGL\OpenGL\bin\Debug\OpenTK.GLControl.dll
+D:\Belokamenskaya\_Lectures\Practice\raytracing\OpenGL\OpenGL\bin\Debug\OpenTK.pdb
+D:\Belokamenskaya\_Lectures\Practice\raytracing\OpenGL\OpenGL\bin\Debug\OpenTK.xml
+D:\Belokamenskaya\_Lectures\Practice\raytracing\OpenGL\OpenGL\bin\Debug\OpenTK.GLControl.xml
+D:\Belokamenskaya\_Lectures\Practice\raytracing\OpenGL\OpenGL\obj\x86\Debug\OpenGL.csprojResolveAssemblyReference.cache
+D:\Belokamenskaya\_Lectures\Practice\raytracing\OpenGL\OpenGL\obj\x86\Debug\OpenGL.Form1.resources
+D:\Belokamenskaya\_Lectures\Practice\raytracing\OpenGL\OpenGL\obj\x86\Debug\OpenGL.Properties.Resources.resources
+D:\Belokamenskaya\_Lectures\Practice\raytracing\OpenGL\OpenGL\obj\x86\Debug\OpenGL.csproj.GenerateResource.Cache
+E:\raytracing\OpenGL\OpenGL\obj\x86\Debug\OpenGL.exe
+E:\raytracing\OpenGL\OpenGL\obj\x86\Debug\OpenGL.pdb
+E:\raytracing\OpenGL\OpenGL\bin\Debug\OpenGL.exe
+E:\raytracing\OpenGL\OpenGL\bin\Debug\OpenGL.pdb
+E:\raytracing\OpenGL\OpenGL\bin\Debug\OpenTK.Compatibility.dll
+E:\raytracing\OpenGL\OpenGL\bin\Debug\OpenTK.dll
+E:\raytracing\OpenGL\OpenGL\bin\Debug\OpenTK.GLControl.dll
+E:\raytracing\OpenGL\OpenGL\bin\Debug\OpenTK.pdb
+E:\raytracing\OpenGL\OpenGL\bin\Debug\OpenTK.xml
+E:\raytracing\OpenGL\OpenGL\bin\Debug\OpenTK.GLControl.xml
+E:\raytracing\OpenGL\OpenGL\obj\x86\Debug\OpenGL.csprojResolveAssemblyReference.cache
+E:\raytracing\OpenGL\OpenGL\obj\x86\Debug\OpenGL.Form1.resources
+E:\raytracing\OpenGL\OpenGL\obj\x86\Debug\OpenGL.Properties.Resources.resources
+E:\raytracing\OpenGL\OpenGL\obj\x86\Debug\OpenGL.csproj.GenerateResource.Cache
+C:\Users\Alexandra\Desktop\raytracing\OpenGL\OpenGL\obj\x86\Debug\OpenGL.exe
+C:\Users\Alexandra\Desktop\raytracing\OpenGL\OpenGL\obj\x86\Debug\OpenGL.pdb
+C:\Users\Alexandra\Desktop\raytracing\OpenGL\OpenGL\bin\Debug\OpenGL.exe
+C:\Users\Alexandra\Desktop\raytracing\OpenGL\OpenGL\bin\Debug\OpenGL.pdb
+C:\Users\Alexandra\Desktop\raytracing\OpenGL\OpenGL\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\Alexandra\Desktop\raytracing\OpenGL\OpenGL\bin\Debug\OpenTK.dll
+C:\Users\Alexandra\Desktop\raytracing\OpenGL\OpenGL\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Alexandra\Desktop\raytracing\OpenGL\OpenGL\bin\Debug\OpenTK.pdb
+C:\Users\Alexandra\Desktop\raytracing\OpenGL\OpenGL\bin\Debug\OpenTK.xml
+C:\Users\Alexandra\Desktop\raytracing\OpenGL\OpenGL\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Alexandra\Desktop\raytracing\OpenGL\OpenGL\obj\x86\Debug\OpenGL.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\raytracing\OpenGL\OpenGL\obj\x86\Debug\OpenGL.Form1.resources
+C:\Users\Alexandra\Desktop\raytracing\OpenGL\OpenGL\obj\x86\Debug\OpenGL.Properties.Resources.resources
+C:\Users\Alexandra\Desktop\raytracing\OpenGL\OpenGL\obj\x86\Debug\OpenGL.csproj.GenerateResource.Cache
+D:\Belokamenskaya\_Lectures\Practice\mirror reflection\raytracing\OpenGL\OpenGL\obj\x86\Debug\OpenGL.exe
+D:\Belokamenskaya\_Lectures\Practice\mirror reflection\raytracing\OpenGL\OpenGL\obj\x86\Debug\OpenGL.pdb
+D:\Belokamenskaya\_Lectures\Practice\mirror reflection\raytracing\OpenGL\OpenGL\bin\Debug\OpenGL.exe
+D:\Belokamenskaya\_Lectures\Practice\mirror reflection\raytracing\OpenGL\OpenGL\bin\Debug\OpenGL.pdb
+D:\Belokamenskaya\_Lectures\Practice\mirror reflection\raytracing\OpenGL\OpenGL\bin\Debug\OpenTK.Compatibility.dll
+D:\Belokamenskaya\_Lectures\Practice\mirror reflection\raytracing\OpenGL\OpenGL\bin\Debug\OpenTK.dll
+D:\Belokamenskaya\_Lectures\Practice\mirror reflection\raytracing\OpenGL\OpenGL\bin\Debug\OpenTK.GLControl.dll
+D:\Belokamenskaya\_Lectures\Practice\mirror reflection\raytracing\OpenGL\OpenGL\bin\Debug\OpenTK.pdb
+D:\Belokamenskaya\_Lectures\Practice\mirror reflection\raytracing\OpenGL\OpenGL\bin\Debug\OpenTK.xml
+D:\Belokamenskaya\_Lectures\Practice\mirror reflection\raytracing\OpenGL\OpenGL\bin\Debug\OpenTK.GLControl.xml
+D:\Belokamenskaya\_Lectures\Practice\mirror reflection\raytracing\OpenGL\OpenGL\obj\x86\Debug\OpenGL.csprojResolveAssemblyReference.cache
+D:\Belokamenskaya\_Lectures\Practice\mirror reflection\raytracing\OpenGL\OpenGL\obj\x86\Debug\OpenGL.Form1.resources
+D:\Belokamenskaya\_Lectures\Practice\mirror reflection\raytracing\OpenGL\OpenGL\obj\x86\Debug\OpenGL.Properties.Resources.resources
+D:\Belokamenskaya\_Lectures\Practice\mirror reflection\raytracing\OpenGL\OpenGL\obj\x86\Debug\OpenGL.csproj.GenerateResource.Cache
+D:\Belokamenskaya\_Lectures\КГ_Practice\mirror reflection\raytracing\refraction\OpenGL\OpenGL\obj\x86\Debug\OpenGL.exe
+D:\Belokamenskaya\_Lectures\КГ_Practice\mirror reflection\raytracing\refraction\OpenGL\OpenGL\obj\x86\Debug\OpenGL.pdb
+D:\Belokamenskaya\_Lectures\КГ_Practice\mirror reflection\raytracing\refraction\OpenGL\OpenGL\bin\Debug\OpenGL.exe
+D:\Belokamenskaya\_Lectures\КГ_Practice\mirror reflection\raytracing\refraction\OpenGL\OpenGL\bin\Debug\OpenGL.pdb
+D:\Belokamenskaya\_Lectures\КГ_Practice\mirror reflection\raytracing\refraction\OpenGL\OpenGL\bin\Debug\OpenTK.pdb
+D:\Belokamenskaya\_Lectures\КГ_Practice\mirror reflection\raytracing\refraction\OpenGL\OpenGL\bin\Debug\OpenTK.xml
+D:\Belokamenskaya\_Lectures\КГ_Practice\mirror reflection\raytracing\refraction\OpenGL\OpenGL\bin\Debug\OpenTK.GLControl.xml
+D:\Belokamenskaya\_Lectures\КГ_Practice\mirror reflection\raytracing\refraction\OpenGL\OpenGL\obj\x86\Debug\OpenGL.csprojResolveAssemblyReference.cache
+D:\Belokamenskaya\_Lectures\КГ_Practice\mirror reflection\raytracing\refraction\OpenGL\OpenGL\obj\x86\Debug\OpenGL.Form1.resources
+D:\Belokamenskaya\_Lectures\КГ_Practice\mirror reflection\raytracing\refraction\OpenGL\OpenGL\obj\x86\Debug\OpenGL.Properties.Resources.resources
+D:\Belokamenskaya\_Lectures\КГ_Practice\mirror reflection\raytracing\refraction\OpenGL\OpenGL\obj\x86\Debug\OpenGL.csproj.GenerateResource.Cache
+C:\Users\Alexandra\Desktop\refraction\OpenGL\OpenGL\obj\x86\Debug\OpenGL.exe
+C:\Users\Alexandra\Desktop\refraction\OpenGL\OpenGL\obj\x86\Debug\OpenGL.pdb
+C:\Users\Alexandra\Desktop\refraction\OpenGL\OpenGL\bin\Debug\OpenGL.exe
+C:\Users\Alexandra\Desktop\refraction\OpenGL\OpenGL\bin\Debug\OpenGL.pdb
+C:\Users\Alexandra\Desktop\refraction\OpenGL\OpenGL\bin\Debug\OpenTK.pdb
+C:\Users\Alexandra\Desktop\refraction\OpenGL\OpenGL\bin\Debug\OpenTK.xml
+C:\Users\Alexandra\Desktop\refraction\OpenGL\OpenGL\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Alexandra\Desktop\refraction\OpenGL\OpenGL\obj\x86\Debug\OpenGL.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\refraction\OpenGL\OpenGL\obj\x86\Debug\OpenGL.Form1.resources
+C:\Users\Alexandra\Desktop\refraction\OpenGL\OpenGL\obj\x86\Debug\OpenGL.Properties.Resources.resources
+C:\Users\Alexandra\Desktop\refraction\OpenGL\OpenGL\obj\x86\Debug\OpenGL.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\Desktop\refraction\OpenGL\OpenGL\obj\x86\Debug\OpenGL.exe
+C:\Users\Alex\Desktop\Desktop\refraction\OpenGL\OpenGL\obj\x86\Debug\OpenGL.pdb
+C:\Users\Alex\Desktop\Desktop\refraction\OpenGL\OpenGL\bin\Debug\OpenGL.exe
+C:\Users\Alex\Desktop\Desktop\refraction\OpenGL\OpenGL\bin\Debug\OpenGL.pdb
+C:\Users\Alex\Desktop\Desktop\refraction\OpenGL\OpenGL\bin\Debug\OpenTK.pdb
+C:\Users\Alex\Desktop\Desktop\refraction\OpenGL\OpenGL\bin\Debug\OpenTK.xml
+C:\Users\Alex\Desktop\Desktop\refraction\OpenGL\OpenGL\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Alex\Desktop\Desktop\refraction\OpenGL\OpenGL\obj\x86\Debug\OpenGL.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Desktop\refraction\OpenGL\OpenGL\obj\x86\Debug\OpenGL.Form1.resources
+C:\Users\Alex\Desktop\Desktop\refraction\OpenGL\OpenGL\obj\x86\Debug\OpenGL.Properties.Resources.resources
+C:\Users\Alex\Desktop\Desktop\refraction\OpenGL\OpenGL\obj\x86\Debug\OpenGL.csproj.GenerateResource.Cache
+C:\Users\Alexandra\Desktop\OpenGL\OpenGL\obj\x86\Debug\OpenGL.exe
+C:\Users\Alexandra\Desktop\OpenGL\OpenGL\obj\x86\Debug\OpenGL.pdb
+C:\Users\Alexandra\Desktop\OpenGL\OpenGL\obj\x86\Debug\OpenGL.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\OpenGL\OpenGL\obj\x86\Debug\OpenGL.Form1.resources
+C:\Users\Alexandra\Desktop\OpenGL\OpenGL\obj\x86\Debug\OpenGL.Properties.Resources.resources
+C:\Users\Alexandra\Desktop\OpenGL\OpenGL\obj\x86\Debug\OpenGL.csproj.GenerateResource.Cache
+C:\Users\Alexandra\Desktop\OpenGL\OpenGL\bin\Debug\OpenGL.exe
+C:\Users\Alexandra\Desktop\OpenGL\OpenGL\bin\Debug\OpenGL.pdb
+C:\Users\Alexandra\Desktop\OpenGL\OpenGL\bin\Debug\OpenTK.pdb
+C:\Users\Alexandra\Desktop\OpenGL\OpenGL\bin\Debug\OpenTK.xml
+C:\Users\Alexandra\Desktop\OpenGL\OpenGL\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Alex\Desktop\OpenGL\OpenGL\obj\x86\Debug\OpenGL.exe
+C:\Users\Alex\Desktop\OpenGL\OpenGL\obj\x86\Debug\OpenGL.pdb
+C:\Users\Alex\Desktop\OpenGL\OpenGL\bin\Debug\OpenGL.exe
+C:\Users\Alex\Desktop\OpenGL\OpenGL\bin\Debug\OpenGL.pdb
+C:\Users\Alex\Desktop\OpenGL\OpenGL\bin\Debug\OpenTK.pdb
+C:\Users\Alex\Desktop\OpenGL\OpenGL\bin\Debug\OpenTK.xml
+C:\Users\Alex\Desktop\OpenGL\OpenGL\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Alex\Desktop\OpenGL\OpenGL\obj\x86\Debug\OpenGL.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\OpenGL\OpenGL\obj\x86\Debug\OpenGL.Form1.resources
+C:\Users\Alex\Desktop\OpenGL\OpenGL\obj\x86\Debug\OpenGL.Properties.Resources.resources
+C:\Users\Alex\Desktop\OpenGL\OpenGL\obj\x86\Debug\OpenGL.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\Raytracing\OpenGL\obj\x86\Debug\OpenGL.exe
+C:\Users\Alex\Desktop\Raytracing\OpenGL\obj\x86\Debug\OpenGL.pdb
